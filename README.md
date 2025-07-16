@@ -1,6 +1,6 @@
 # Projeto Carrinho Controle de Direção (ESP32)
 
-Este repositório contém três versões de um projeto de controle de direção para um carrinho segue linha baseado em **ESP32**, com implementação de **controle PID** para ajuste fino da direção. Cada pasta corresponde a uma abordagem diferente de leitura de sensores e controle:
+Este repositório contém três versões de um projeto de controle de direção para um carrinho segue linha baseado em **ESP32**, com implementação de **controle PID** para ajuste fino da direção. 
 
 ## Estrutura de Pastas
 
